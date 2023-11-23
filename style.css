@@ -7,8 +7,8 @@ body {
 }
 
 header {
-    background-color: #1B1C1C00;
-    color: white;
+    background-color: #142532FF;
+    color: #DC7129FF;
     text-align: center;
     padding: 1em 0;
 }
@@ -24,7 +24,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: #AAA7A5FA;
     text-decoration: none;
 }
 
@@ -34,7 +34,7 @@ section {
 
 footer {
     background-color: #333;
-    color: white;
+    color: #F7FAF9FF;
     text-align: center;
     padding: 1em 0;
     position: relative;
