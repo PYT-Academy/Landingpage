@@ -1,7 +1,8 @@
 body {
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+    margin: 0 auto; /* Zentriert den Container*/
+    max-width: 800px;	/*Breite auf 800 Pixel festgelegt*/
+    padding: 20px; 	/* Innenabstand von 20 Pixel*/
     box-sizing: border-box;
 }
 
@@ -40,4 +41,3 @@ footer {
     bottom: 0;
     width: 100%;
 }
-
